@@ -1,6 +1,6 @@
 package app;
 
-import structures.Graph;
+import structure.Graph;
 
 public class App {
     public static void main(String[] args) {

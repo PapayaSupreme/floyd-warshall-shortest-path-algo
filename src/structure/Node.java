@@ -1,4 +1,4 @@
-package structures;
+package structure;
 
 public record Node(int id) {
 
