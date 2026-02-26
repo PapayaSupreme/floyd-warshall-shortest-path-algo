@@ -17,7 +17,9 @@
      |   ├── Edge.java
      |   ├── Graph.java
      |   └── Node.java
-     ├── floydwarshall.vpp
+     ├── uml/
+     |   └── floydwarshall.vpp
+     ├── .gitognore
      └── README.md
 
 ### Core Design
